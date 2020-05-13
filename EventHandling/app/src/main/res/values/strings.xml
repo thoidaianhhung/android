@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <string name="hint_A">Enter number A: </string>
+    <string name="hint_B">Enter number B: </string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="result">Result: </string>
+</resources>

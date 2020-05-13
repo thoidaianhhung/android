@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="bound_service">Bound Service</string>
+    <string name="show_current_date">Show Current Date</string>
+    <string name="stop_service">Stop Service</string>
+</resources>

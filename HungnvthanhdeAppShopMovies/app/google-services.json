@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261697944680",
+    "firebase_url": "https://app-shop-movies-69789.firebaseio.com",
+    "project_id": "app-shop-movies-69789",
+    "storage_bucket": "app-shop-movies-69789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261697944680:android:c48ac53d16ebac5e120fdd",
+        "android_client_info": {
+          "package_name": "com.example.hungnvthanhdeappshopmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261697944680-5ct27b5v3rfuif7soiit5m5krsdpq8eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungnvthanhdeappshopmovies",
+            "certificate_hash": "4484fd7f2e8d97b223ff5e4b6fc62839fc76038f"
+          }
+        },
+        {
+          "client_id": "261697944680-ts9eab6sc6e0m8m36ekkb43vmqa1tp0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJeAHg3StCaFgkc_UEYI6N7tgf9ExgnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261697944680-ts9eab6sc6e0m8m36ekkb43vmqa1tp0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

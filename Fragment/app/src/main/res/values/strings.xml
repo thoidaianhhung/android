@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="textButton1">Fragment One</string>
+    <string name="textButton2">Fragment Two</string>
+    <string name="fragment1">fragment1</string>
+    <string name="fragment2">fragment2</string>
+    <string name="hotel">Hotel</string>
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="TODO">TODO</string>
+</resources>

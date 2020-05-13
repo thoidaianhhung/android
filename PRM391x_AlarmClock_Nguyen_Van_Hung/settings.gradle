@@ -1,0 +1,2 @@
+rootProject.name='PRM391x_AlarmClock_Nguyen_Van_Hung'
+include ':app'

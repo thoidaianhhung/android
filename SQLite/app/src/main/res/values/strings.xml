@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="get_name">Get Name</string>
+    <string name="update_name">Update Name</string>
+</resources>

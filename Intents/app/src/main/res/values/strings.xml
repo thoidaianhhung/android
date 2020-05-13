@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="implicit">Implicit Intent</string>
+    <string name="explicit">Explicit Intent</string>
+    <string name="filter">Intent Filter</string>
+    <string name="button">Button</string>
+
+    <string-array name="intent">
+        <item>Open Browser</item>
+        <item>Show Map</item>
+        <item>Show Contact</item>
+    </string-array>
+
+    <string name="firstNumberText">First Number</string>
+    <string name="secondNumberText">Second Number</string>
+    <string name="textButton2">Add</string>
+    <string name="textTextView">TEXT</string>
+    <string name="textButton3">Launch</string>
+    <string name="tell">tell</string>
+    <string name="hint">Enter answer</string>
+</resources>
